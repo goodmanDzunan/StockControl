@@ -1,0 +1,14 @@
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\bin\Release\StockControl_2.exe.config
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\bin\Release\StockControl_2.exe
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\bin\Release\StockControl_2.pdb
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.csproj.AssemblyReference.cache
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.CfrmLogin.resources
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.CfrmRegister.resources
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.Properties.Resources.resources
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.csproj.GenerateResource.cache
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.csproj.CoreCompileInputs.cache
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.exe
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.pdb
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.exe.config
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.CfrmlstItems.resources
+C:\Users\27812\Desktop\Software Development\StockControl_2\StockControl_2\obj\Release\StockControl_2.CfrmStockControl.resources
